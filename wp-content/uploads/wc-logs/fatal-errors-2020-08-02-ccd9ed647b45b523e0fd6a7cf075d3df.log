@@ -2,3 +2,5 @@
 
 2020-08-02T17:42:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in E:\xampp\htdocs\rotaract\wp-includes\wp-db.php on line 2024
 
+2020-08-02T17:52:21+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in E:\xampp\htdocs\rotaract\wp-admin\includes\ajax-actions.php on line 1354
+
